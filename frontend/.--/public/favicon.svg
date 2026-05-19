@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="SIRPAM favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#9d633b" />
+      <stop offset="100%" stop-color="#5d2e17" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="34" fill="url(#bg)" />
+  <path
+    d="M81 27c-8-5-18-7-29-7-16 0-28 7-28 19 0 26 41 14 41 34 0 5-5 8-13 8-9 0-18-3-26-8v18c8 4 18 6 27 6 18 0 31-8 31-21 0-27-41-16-41-34 0-4 4-7 11-7 8 0 16 2 24 6V27Z"
+    fill="#fff7ec"
+  />
+</svg>
